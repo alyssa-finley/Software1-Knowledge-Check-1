@@ -50,7 +50,11 @@ namespace KnowledgeCheck1_Calculator
                     }
                     break;
 
+<<<<<<< HEAD
                 case "3":
+=======
+                 case "3":
+>>>>>>> 99c1e8b4f151de4e1740f76883667a481068b202
                     Console.WriteLine("Enter 2 integers to multiply");
                     var multiplyNumber1 = Console.ReadLine();
                     var multiplyNumber2 = Console.ReadLine();
