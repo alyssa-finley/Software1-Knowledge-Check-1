@@ -1,0 +1,50 @@
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\bin\Debug\net5.0\Pet Store.exe
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\bin\Debug\net5.0\Pet Store.deps.json
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\bin\Debug\net5.0\Pet Store.runtimeconfig.json
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\bin\Debug\net5.0\Pet Store.runtimeconfig.dev.json
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\bin\Debug\net5.0\Pet Store.dll
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\bin\Debug\net5.0\ref\Pet Store.dll
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\bin\Debug\net5.0\Pet Store.pdb
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\obj\Debug\net5.0\Pet Store.csproj.AssemblyReference.cache
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\obj\Debug\net5.0\Pet Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\obj\Debug\net5.0\Pet Store.AssemblyInfoInputs.cache
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\obj\Debug\net5.0\Pet Store.AssemblyInfo.cs
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\obj\Debug\net5.0\Pet Store.csproj.CoreCompileInputs.cache
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\obj\Debug\net5.0\Pet Store.dll
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\obj\Debug\net5.0\ref\Pet Store.dll
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\obj\Debug\net5.0\Pet Store.pdb
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\obj\Debug\net5.0\Pet Store.genruntimeconfig.cache
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\bin\Debug\net5.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\bin\Debug\net5.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\bin\Debug\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\bin\Debug\net5.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\bin\Debug\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\bin\Debug\net5.0\Microsoft.Extensions.Hosting.dll
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\bin\Debug\net5.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\bin\Debug\net5.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\bin\Debug\net5.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\bin\Debug\net5.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\bin\Debug\net5.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\bin\Debug\net5.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\bin\Debug\net5.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\bin\Debug\net5.0\System.Diagnostics.EventLog.dll
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\alyssa.finley\OneDrive - Waystar\Documents\Projects\Pet Store\Pet Store\obj\Debug\net5.0\Pet Store.csproj.CopyComplete
